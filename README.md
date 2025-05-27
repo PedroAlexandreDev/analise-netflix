@@ -107,8 +107,3 @@ jupyter notebook netflix_analysis.ipynb
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir.
-```
-
----
-
-Se quiser, posso gerar esse README já preenchido com **seu nome, GitHub ou LinkedIn**. Só me diga os dados e eu edito pra você!
