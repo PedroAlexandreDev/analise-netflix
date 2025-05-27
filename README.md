@@ -99,8 +99,8 @@ jupyter notebook netflix_analysis.ipynb
 ## 🧠 Autor
 
 - **Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/PedroAlexandreDev)
-- LinkedIn: [seu-linkedin](https://www.linkedin.com/in/pedro-alexandre-007428366/)
+- GitHub: [@PedroAlexandreDev](https://github.com/PedroAlexandreDev)
+- LinkedIn: [pedro-alexandre](https://www.linkedin.com/in/pedro-alexandre-007428366/)
 
 ---
 
